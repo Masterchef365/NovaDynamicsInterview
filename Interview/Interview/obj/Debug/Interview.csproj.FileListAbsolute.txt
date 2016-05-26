@@ -1,0 +1,6 @@
+C:\Users\Duncan\Documents\GitHub\NovaDynamicsInterview\Interview\Interview\bin\Debug\Interview.exe.config
+C:\Users\Duncan\Documents\GitHub\NovaDynamicsInterview\Interview\Interview\bin\Debug\Interview.exe
+C:\Users\Duncan\Documents\GitHub\NovaDynamicsInterview\Interview\Interview\bin\Debug\Interview.pdb
+C:\Users\Duncan\Documents\GitHub\NovaDynamicsInterview\Interview\Interview\obj\Debug\Interview.csprojResolveAssemblyReference.cache
+C:\Users\Duncan\Documents\GitHub\NovaDynamicsInterview\Interview\Interview\obj\Debug\Interview.exe
+C:\Users\Duncan\Documents\GitHub\NovaDynamicsInterview\Interview\Interview\obj\Debug\Interview.pdb
